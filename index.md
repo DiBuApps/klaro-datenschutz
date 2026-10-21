@@ -1,4 +1,3 @@
-
 ---
 layout: null
 ---
@@ -10,7 +9,6 @@ layout: null
 h1, h2, h3 {
   border: none !important;
 }
-/* Hier folgt dein bisheriger CSS-Code */
   :root { color-scheme: light; }
   * { box-sizing: border-box; }
   html { background: #eff3f7; }
