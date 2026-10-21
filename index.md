@@ -1,14 +1,16 @@
+
 ---
 layout: null
 ---
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Datenschutzerklärung – Klaro | DiBuApps</title>
+<style>
 /* Dünne Trennlinien entfernen */
 h1, h2, h3 {
   border: none !important;
 }
-<style>
+/* Hier folgt dein bisheriger CSS-Code */
   :root { color-scheme: light; }
   * { box-sizing: border-box; }
   html { background: #eff3f7; }
